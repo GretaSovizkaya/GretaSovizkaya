@@ -2,23 +2,20 @@
 
 <h1 align="center">Привет 👋 Меня зовут Маргарита</h1>
 
-###
+### Контакты
 
-<div align="center">
- 
-📫 E-mail: **desgreta14@gmail.com**
+[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/desyatkina_m) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:desgreta14@gmail.com)
+### 
 
-💬 Telegram: **desyatkina_m**
-
-</div>
-
-###
+---
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
 
 <p align="left">🔭 В 2025 закончила обучение на Java-разработчика в Яндекс Практикуме<br>📚 Учусь в КГЭУ на направлении "Прикладная информатика и анализ данных"<br>⚡ Продолжаю обучаться новым технологиям</p>
+
+---
 
 ###
 
@@ -38,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
+---
+
 ###
 
 <h3 align="left">💻 Интересные проекты:</h3>
@@ -45,13 +44,11 @@
 ###
 
 #### 1. [Трекер задач](https://github.com/GretaSovizkaya/TaskManager)
-**Стек:** 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain-wordmark.svg" height="30" alt="junit logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
 
 #### 2. [Исследуй со мной](https://github.com/GretaSovizkaya/explore-with-me) 
-**Стек:** 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="spring logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
@@ -61,7 +58,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain-wordmark.svg" height="30" alt="maven logo" />
 
 #### 3. [ShareIt](https://github.com/GretaSovizkaya/shareIt)
-**Стек:** 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="spring logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
@@ -70,13 +66,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain-wordmark.svg" height="30" alt="maven logo" />
 
 #### 4. [Filmorate](https://github.com/GretaSovizkaya/filmorate)
-**Стек:** 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="spring logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain-wordmark.svg" height="30" alt="maven logo" />
 
+---
 
 ###
 
