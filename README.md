@@ -41,14 +41,6 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gretasovizkaya&show_icons=true&locale=en&layout=compact" alt="gretasovizkaya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gretasovizkaya&show_icons=true&locale=en" alt="gretasovizkaya" /></p>
-
-###
-
 <h3 align="left">💻 Интересные проекты:</h3>
 
 ###
@@ -87,4 +79,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2/h2-original-wordmark.svg" height="30" alt="h2 logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain-wordmark.svg" height="30" alt="maven logo" />
 
+
 ###
+
+<h3 align="left">🔥   Моя статистика :</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gretasovizkaya&show_icons=true&locale=en&layout=compact" alt="gretasovizkaya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gretasovizkaya&show_icons=true&locale=en" alt="gretasovizkaya" /></p>
+
+###
+
