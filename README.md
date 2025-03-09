@@ -5,12 +5,11 @@
 ###
 
 <div align="center">
-  <a href="desgreta14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="[@desyatkina_m](https://t.me/desyatkina_m)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+ 
+📫 E-mail: **desgreta14@gmail.com**
+
+💬 Telegram: **desyatkina_m**
+
 </div>
 
 ###
@@ -76,7 +75,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2/h2-original-wordmark.svg" height="30" alt="h2 logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain-wordmark.svg" height="30" alt="maven logo" />
 
 
