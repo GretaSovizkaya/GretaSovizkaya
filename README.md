@@ -1,8 +1,6 @@
 <h1 align="center">Привет 👋, меня зовут Маргарита</h1>
 <h3 align="center">Java-разработчик</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gretasovizkaya" alt="gretasovizkaya" /></a> </p>
-
 - 📫 E-mail: **desgreta14@gmail.com**
 
 - 💬 Telegram: **desyatkina_m**
@@ -17,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gretasovizkaya&show_icons=true&locale=en&layout=compact" alt="gretasovizkaya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gretasovizkaya&show_icons=true&locale=en" alt="gretasovizkaya" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gretasovizkaya" alt="gretasovizkaya" /></a> </p>
