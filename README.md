@@ -4,13 +4,9 @@
 
 ###
 
-<div align="center">
- 
-📫 E-mail: **desgreta14@gmail.com**
+[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/desyatkina_m) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:desgreta14@gmail.com)
 
-💬 Telegram: **desyatkina_m**
-
-</div>
+---
 
 ###
 
@@ -19,6 +15,8 @@
 ###
 
 <p align="left">🔭 В 2025 закончила обучение на Java-разработчика в Яндекс Практикуме<br>📚 Учусь в КГЭУ на направлении "Прикладная информатика и анализ данных"<br>⚡ Продолжаю обучаться новым технологиям</p>
+
+---
 
 ###
 
@@ -37,6 +35,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
+
+---
 
 ###
 
@@ -77,6 +77,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain-wordmark.svg" height="30" alt="maven logo" />
 
+---
 
 ###
 
