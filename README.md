@@ -1,10 +1,6 @@
+Добавил раздел "Интересные проекты" с примерами проектов и указанием стека технологий:
+
 <h1 align="center">Привет 👋 Меня зовут Маргарита</h1>
-
-###
-
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
 ###
 
@@ -12,7 +8,7 @@
   <a href="desgreta14@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="@desyatkina_m" target="_blank">
+  <a href="[@desyatkina_m](https://t.me/desyatkina_m)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
@@ -46,5 +42,49 @@
 ###
 
 <h3 align="left">🔥   Моя статистика :</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gretasovizkaya&show_icons=true&locale=en&layout=compact" alt="gretasovizkaya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gretasovizkaya&show_icons=true&locale=en" alt="gretasovizkaya" /></p>
+
+###
+
+<h3 align="left">💻 Интересные проекты:</h3>
+
+###
+
+#### 1. [Трекер задач](https://github.com/GretaSovizkaya/TaskManager)
+**Стек:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain-wordmark.svg" height="30" alt="junit logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
+
+#### 2. [Исследуй со мной](https://github.com/GretaSovizkaya/explore-with-me) 
+**Стек:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="spring logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" height="30" alt="hibernate logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain-wordmark.svg" height="30" alt="maven logo" />
+
+#### 3. [ShareIt](https://github.com/GretaSovizkaya/shareIt)
+**Стек:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="spring logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" height="30" alt="hibernate logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain-wordmark.svg" height="30" alt="maven logo" />
+
+#### 4. [Filmorate](https://github.com/GretaSovizkaya/filmorate)
+**Стек:** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="spring logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2/h2-original-wordmark.svg" height="30" alt="h2 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain-wordmark.svg" height="30" alt="maven logo" />
 
 ###
